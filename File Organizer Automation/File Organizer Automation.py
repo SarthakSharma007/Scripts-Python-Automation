@@ -3,7 +3,7 @@ import shutil
 from datetime import datetime
 
 # Folder to organize
-DIRECTORY_TO_ORGANIZE = r"C:\Users\Sarthak\Downloads"
+DIRECTORY_TO_ORGANIZE = r" Your Folder Path "
 
 # Mapping of extensions to folder names
 FILE_TYPE = {
@@ -78,3 +78,4 @@ def organize_files(target_dir):
 
 if __name__ == "__main__":
     organize_files(DIRECTORY_TO_ORGANIZE)
+
