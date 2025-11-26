@@ -49,7 +49,7 @@ This project is a Python-based file organizer that automatically sorts files in 
 <pre>
 1. Open the script.
 2. Replace the value of DIRECTORY_TO_ORGANIZE with your folder path:
-   DIRECTORY_TO_ORGANIZE = r"C:\Users\YourName\Downloads"
+   DIRECTORY_TO_ORGANIZE = r" Your Folder Path. "
 
 3. Run the script:
    python organize.py
